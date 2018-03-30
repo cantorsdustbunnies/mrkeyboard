@@ -1,0 +1,8 @@
+body { 
+  background-color: #333; 
+  overflow: hidden; 
+}
+
+.overlay { 
+  opacity: .4
+}

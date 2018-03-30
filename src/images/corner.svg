@@ -1,0 +1,9 @@
+<svg width="120" height="120" version="1.1" viewBox="0 0 31.75 31.75" xmlns="http://www.w3.org/2000/svg">
+ <rect x="-3.1161" y="-3.9283" width="37.066" height="37.375" fill="#333" stroke-width=".30868"/>
+ <g transform="matrix(1.0098 0 0 .99992 -53.013 -212.31)" fill="#333" stroke="#e8e8e8" stroke-linejoin="bevel">
+  <path d="m67.544 213.39v3.8132c5.4739 6e-5 9.9114 4.4376 9.9115 9.9115-5.5e-5 5.474-4.4376 9.9114-9.9115 9.9115-5.4739-6e-5 -9.9114-4.4376-9.9115-9.9115h-3.8132v16.969h30.325l-0.04756-30.694z" stroke="#e8e8e8" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2.1167" style="paint-order:markers stroke fill"/>
+  <circle cx="67.544" cy="227.12" r="6.4073" stroke-width="1.452" style="paint-order:stroke markers fill"/>
+  <rect x="53.819" y="240.45" width="31.004" height="4.8104" ry="0" fill="#333" stroke="none" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(90)" x="213.39" y="-85.393" width="31.896" height="5.521" ry="0" fill="#333" stroke="none" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>
