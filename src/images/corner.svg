@@ -1,9 +1,17 @@
-<svg width="120" height="120" version="1.1" viewBox="0 0 31.75 31.75" xmlns="http://www.w3.org/2000/svg">
- <rect x="-3.1161" y="-3.9283" width="37.066" height="37.375" fill="#333" stroke-width=".30868"/>
- <g transform="matrix(1.0098 0 0 .99992 -53.013 -212.31)" fill="#333" stroke="#e8e8e8" stroke-linejoin="bevel">
-  <path d="m67.544 213.39v3.8132c5.4739 6e-5 9.9114 4.4376 9.9115 9.9115-5.5e-5 5.474-4.4376 9.9114-9.9115 9.9115-5.4739-6e-5 -9.9114-4.4376-9.9115-9.9115h-3.8132v16.969h30.325l-0.04756-30.694z" stroke="#e8e8e8" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2.1167" style="paint-order:markers stroke fill"/>
-  <circle cx="67.544" cy="227.12" r="6.4073" stroke-width="1.452" style="paint-order:stroke markers fill"/>
-  <rect x="53.819" y="240.45" width="31.004" height="4.8104" ry="0" fill="#333" stroke="none" style="paint-order:markers stroke fill"/>
-  <rect transform="rotate(90)" x="213.39" y="-85.393" width="31.896" height="5.521" ry="0" fill="#333" stroke="none" style="paint-order:markers stroke fill"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" version="1.1" viewBox="0 0 31.75 31.75" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path transform="scale(.26458)" d="m55.346 0-8.44e-4 7.0118e-6 -55.345-7.0118e-6v52.444l17.518 0.75672 1.2324 6.7988 3 10.5 10.75 13.5 15.25 7 20.5-1.5 12.5-8.25 9.5-12.75 3-14.25-2.75-16.25-9.25-13.25-14-8.5-11.904-1.4688zm5.4043 30.5 11 5.25 7 9.75 1 12-4.75 12-10.75 7.75-9.75 1.5-12.25-3-7.25-6.5-4.5-11.5 0.5-9.5 6.5-11.25 10.75-6.25z" fill="#333"/>
+ <g transform="matrix(1.0098 0 0 .99992 -53.563 -212.58)" fill-opacity="0" stroke="#e8e8e8" stroke-linejoin="bevel" style="paint-order:stroke fill markers">
+  <path d="m84.097 212.6-16.553 3.1e-4v3.9111c5.4739 7e-5 9.9114 4.5516 9.9115 10.166-5.5e-5 5.6146-4.4376 10.166-9.9115 10.166-5.4739-6e-5 -9.9114-4.5516-9.9115-10.166h-3.8132v17.405" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1.0128" style="paint-order:stroke fill markers"/>
+  <circle cx="67.544" cy="226.72" r="6.4073" style="paint-order:stroke fill markers"/>
  </g>
 </svg>

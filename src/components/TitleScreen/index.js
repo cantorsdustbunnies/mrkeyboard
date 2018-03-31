@@ -1,5 +1,7 @@
 import React from 'react'; 
 import corner from '../../images/corner.svg'; 
+import edges from '../../images/edges.png'; 
+import mrKeyboard from '../../images/MrKeyboard.svg'; 
 
 const TitleScreen = ({ children }) => (
     <div>
@@ -48,7 +50,7 @@ const TitleScreen = ({ children }) => (
         style={{
           position: 'absolute',
           border: '4px solid #eee',
-          zIndex: -10,
+          zIndex: -1,
   
           top: 26,
           left: 25,
@@ -67,6 +69,11 @@ const TitleScreen = ({ children }) => (
       >
         {children}
       </div>
+      <img src={edges} className="border"/> 
+
+      <div className="titleScreen-content"> 
+        <img src={mrKeyboard} /> 
+      </div> 
     </div>
   )
   
